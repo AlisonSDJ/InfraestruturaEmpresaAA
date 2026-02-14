@@ -3,7 +3,7 @@ Imagens do projeto.
 Visão do pdv 8:
 ![Visão do pdv 8](https://github.com/user-attachments/assets/0f836153-b68b-40fb-96be-a24170b1027f)
 
-Visão destinado da mídia interna da padaria
+Visão da mídia interna da padaria
 ![Visão destinado da mídia interna da padaria](https://github.com/user-attachments/assets/e16c5742-8df1-4c53-8a66-18a407232850)
 
 Visão de 7 dos 8 PDV
