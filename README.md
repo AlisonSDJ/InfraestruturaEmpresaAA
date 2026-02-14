@@ -1,4 +1,4 @@
-Em construção...
+Em construção...falta colocar imagens das retaguardas, do rack(principal) e do rack do dvr1.
 
 **1. Visão Geral**
 
